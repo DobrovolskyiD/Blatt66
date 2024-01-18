@@ -1,4 +1,4 @@
-public class Rahmen {
+public abstract class Rahmen {
     private String material;
     private String farbe;
 

@@ -1,4 +1,4 @@
-public class Bremse {
+public abstract class Bremse {
     private String typ;
 
     public Bremse(String typ) {
